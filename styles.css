@@ -1,1 +1,43 @@
-/* Write your CSS here! */
+html {
+    background-color: aqua;
+    margin: 150px, 100px, 150px;
+    padding: 50px;
+    border: 1px solid black;
+ }
+ 
+ body{
+    background-color: #f0f0f5;
+    margin: 8px;
+    display: block;
+ }
+ 
+ #mainheading {
+    text-align: center;
+    color: red;
+ }
+ 
+ .center{
+    text-align: center;
+ }
+ 
+ #background{
+    background-color: lightblue;
+    margin: 8px;
+    display: block;
+    
+ }
+ p.funParagraph{
+    color: green;
+    text-align: center;
+ }
+ .kitty {
+    background-color: rgb(71, 166, 255);
+    color: black;
+    border: 2px solid rgb(147, 197, 230);
+ 
+    margin: 20px;
+    padding: 20px;
+  }
+ 
+ 
+ 
